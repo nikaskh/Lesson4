@@ -1,0 +1,44 @@
+body{
+    max-width: 1920px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.slaideri{
+    max-width: 1640px;
+    width: 100%;
+}
+.section-img{
+    max-width: 483px;
+    width: 100%;
+}
+section p{
+    color: red;
+}
+.article-one{
+    border: 3px solid;
+    inline-size:483px;
+    margin-top: 123px;
+    margin-bottom: 50px;
+}
+.second-section{
+    max-width: 1642px;
+    display: flex;
+    margin-top: 30px;
+}
+.article-one{
+    margin-right: 30px;
+}
+.article-one h3{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+.article-one p{
+    padding-left: 5px;
+    padding-bottom: 20px;
+}
+.article-one a{
+    padding-left: 350px;
+}

@@ -1,0 +1,13 @@
+.logo {
+    max-width: 122px;
+}
+.header-nav{
+    display: flex;
+}
+.header-nav-ol{
+    display: flex;
+    margin: 50px;
+}
+.header-nav-ol li{
+    margin: 20px;
+}

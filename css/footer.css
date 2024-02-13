@@ -1,0 +1,8 @@
+footer{
+    background-color: #707070;
+    display: flex;
+}
+footer ol{
+    margin-left: 100px;
+    margin-top: 30px;
+}
